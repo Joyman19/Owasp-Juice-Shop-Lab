@@ -5,10 +5,10 @@ OWASP Juice Shop is a deliberately insecure web application created by the Open 
 | Level/Star | Link to solution |
 |---------------|---------------|
 | 0-Star     | <a href="https://github.com/Joyman19/0-Star-owasp-juice-shop-lab"> Link-to-0-Star </a>  |
-| 1-Star     | Link-to-0-Star   |
-| 2-Star     | Link-to-0-Star   |
-| 3-Star     | Link-to-0-Star   |
-| 4-Star     | Link-to-0-Star   |
-| 5-Star     | Link-to-0-Star   |
+| 1-Star     | <a href="https://github.com/Joyman19/0-Star-owasp-juice-shop-lab"> Link-to-0-Star </a>  |
+| 2-Star     | <a href="https://github.com/Joyman19/0-Star-owasp-juice-shop-lab"> Link-to-0-Star </a>  |
+| 3-Star     | <a href="https://github.com/Joyman19/0-Star-owasp-juice-shop-lab"> Link-to-0-Star  </a> |
+| 4-Star     | <a href="https://github.com/Joyman19/0-Star-owasp-juice-shop-lab"> Link-to-0-Star  </a> |
+| 5-Star     | <a href="https://github.com/Joyman19/0-Star-owasp-juice-shop-lab"> Link-to-0-Star  </a> |
 
 I Hope you find it usefull.
